@@ -69,6 +69,10 @@ The GitHub Actions workflow ([.github/workflows/build-docs.yml](.github/workflow
 
 ## Adding Human Translations
 
+The repository includes a sample translation (`docs/translation/sections/02_3_Ripple_Labs_Inc_Toront_o_Canada.zh.md`) to demonstrate the workflow.
+
+To add more human translations:
+
 1. Create translation files in `docs/translation/sections/` with `.zh.md` extension
 2. Use the same base name as the English section file (e.g., `01_Abstract.zh.md`)
 3. The export script will automatically use human translations when available

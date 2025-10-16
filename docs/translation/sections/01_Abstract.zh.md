@@ -1,11 +1,9 @@
-# Abstract
+# Preface
 
-TODO: 待完成中文翻译
+待完成翻译
 
 <!-- 
 Translation Instructions:
-- Provide concise Chinese translation of the abstract
-- Keep paper title and algorithm names (Dilithium) in English
-- Use glossary terms from GLOSSARY.md
-- Follow style guide in STYLE_GUIDE.md
+- This is a preface/header section with minimal content
+- May not need full translation
 -->
