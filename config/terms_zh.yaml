@@ -1,0 +1,103 @@
+# Lattice Cryptography Terminology Glossary
+# English -> Simplified Chinese (简体中文)
+
+terms:
+  # Core Concepts
+  "lattice": "格"
+  "lattice-based cryptography": "基于格的密码学"
+  "post-quantum cryptography": "后量子密码学"
+  "quantum-resistant": "抗量子"
+  
+  # Dilithium Specific
+  "Dilithium": "Dilithium"
+  "digital signature": "数字签名"
+  "signature scheme": "签名方案"
+  "Module-LWE": "Module-LWE"
+  "Module-SIS": "Module-SIS"
+  "Learning With Errors": "带错学习"
+  "Short Integer Solution": "短整数解"
+  
+  # Cryptographic Primitives
+  "hash function": "哈希函数"
+  "cryptographic hash": "密码哈希"
+  "Fiat-Shamir": "Fiat-Shamir"
+  "Fiat-Shamir transform": "Fiat-Shamir变换"
+  "Fiat-Shamir with aborts": "带中止的Fiat-Shamir"
+  "random oracle": "随机预言机"
+  "random oracle model": "随机预言机模型"
+  "QROM": "QROM"
+  "quantum random oracle model": "量子随机预言机模型"
+  
+  # Security Concepts
+  "existential unforgeability": "存在性不可伪造"
+  "chosen message attack": "选择消息攻击"
+  "EUF-CMA": "EUF-CMA"
+  "strong unforgeability": "强不可伪造"
+  "SUF-CMA": "SUF-CMA"
+  "security proof": "安全性证明"
+  "security reduction": "安全性规约"
+  "hardness assumption": "困难性假设"
+  
+  # Technical Terms
+  "rejection sampling": "拒绝采样"
+  "sampling": "采样"
+  "polynomial": "多项式"
+  "polynomial ring": "多项式环"
+  "modulus": "模数"
+  "coefficient": "系数"
+  "norm": "范数"
+  "infinity norm": "无穷范数"
+  "Euclidean norm": "欧几里得范数"
+  
+  # Key Management
+  "key generation": "密钥生成"
+  "signing key": "签名密钥"
+  "verification key": "验证密钥"
+  "secret key": "私钥"
+  "public key": "公钥"
+  "key pair": "密钥对"
+  
+  # Operations
+  "signing": "签名"
+  "verification": "验证"
+  "signature generation": "签名生成"
+  "signature verification": "签名验证"
+  "encoding": "编码"
+  "decoding": "解码"
+  "compression": "压缩"
+  "decompression": "解压缩"
+  
+  # Implementation
+  "implementation": "实现"
+  "optimization": "优化"
+  "performance": "性能"
+  "efficiency": "效率"
+  "benchmarking": "基准测试"
+  "side-channel attack": "侧信道攻击"
+  "constant-time": "常数时间"
+  "timing attack": "时序攻击"
+  
+  # Standards
+  "NIST": "NIST"
+  "standardization": "标准化"
+  "specification": "规范"
+  "parameter set": "参数集"
+  
+  # Mathematical
+  "theorem": "定理"
+  "lemma": "引理"
+  "proof": "证明"
+  "algorithm": "算法"
+  "protocol": "协议"
+  "construction": "构造"
+  "scheme": "方案"
+  
+  # Academic
+  "abstract": "摘要"
+  "introduction": "引言"
+  "preliminaries": "预备知识"
+  "related work": "相关工作"
+  "conclusion": "结论"
+  "references": "参考文献"
+  "acknowledgments": "致谢"
+  "appendix": "附录"
